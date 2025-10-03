@@ -17,7 +17,7 @@ Objective: To contribute as a SOC Analyst by applying my cybersecurity training 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Stanley59-cyber/Hands-On-SOC-Training/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -50,5 +50,5 @@ Objective: To contribute as a SOC Analyst by applying my cybersecurity training 
 </div>
 
 ## Projects
-- Detection Lab
+- https://github.com/Stanley59-cyber/Hands-On-SOC-Training/tree/main
 - SOC Automation Project
