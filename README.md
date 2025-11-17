@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-🎓 MSc Cybersecurity & Human Factors graduate | **SOC Analyst in training** | **CompTIA Security+ certified**  
+🎓 MSc Cybersecurity & Human Factors graduate  **SOC Analyst in training**  **CompTIA Security+ certified**  
 
 🔍 Passionate about **SOC operations**, phishing & malware analysis, threat detection, and understanding human behavior in cybersecurity.  
 
@@ -30,10 +30,6 @@ Contribute as a SOC Analyst by applying hands-on lab skills from Let’sDefend &
 
 ### Network
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-
-### Endpoint
-<img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 
 ### SIEM
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
