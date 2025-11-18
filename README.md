@@ -29,7 +29,8 @@ To contribute as a SOC Analyst by applying hands-on lab skills from **Let’sDef
 ---
 
 ## 🖼 Let’sDefend Certificate  
-> *(Upload your certificate image to your repository → copy the image URL → replace the link below)*
+
+
 
 ![Let’sDefend Certificate](https://github.com/Stanley59-cyber/Stanley59-cyber/blob/main/LetsDefend_Cert.png?raw=true)
 
