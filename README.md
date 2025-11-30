@@ -97,7 +97,7 @@ CyberChef • OSINT (VirusTotal, AbuseIPDB, DNS Lookup) • VMware Lab • Regsh
 
 ## 💻 Projects / Labs  
 
-Microsoft Sentinel Lab (2025)
+Microsoft Sentinel Lab (2025) https://github.com/Stanley59-cyber/sentinel-2025-lab
 
 Real-world cloud SIEM setup using Azure and Microsoft Defender.
 
