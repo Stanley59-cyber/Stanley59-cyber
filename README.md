@@ -1,32 +1,73 @@
-# 👋 Hello, I am Stanley  
-<a href="https://www.linkedin.com/in/stanley-obiekwe-2018b2217">
-<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+👋 Hello, I am Stanley
+<a href="https://www.linkedin.com/in/stanley-obiekwe-2018b2217"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-🎓 MSc Cybersecurity & Human Factors graduate  
-🔐 Security Operations (SOC) Analyst in training  
-✔️ CompTIA Security+ certified  
+🎓 MSc Cybersecurity & Human Factors
+🔐 SOC Analyst in training
+✔️ CompTIA Security+ certified
 
-Passionate about **SOC operations**, phishing & malware analysis, log monitoring, and understanding how human behaviour shapes security risks.
+I’m passionate about SOC operations, phishing & malware analysis, log monitoring, and understanding how human behaviour influences security risks.
 
 ---
 
-## 🎯 Objective  
-To contribute as a SOC Analyst by applying hands-on lab skills from **Let’sDefend** and **MyDFIR**, while continuing to grow technically and add value to a security team.
+🎯 Objective
+
+To grow as a Security Operations Analyst by applying my hands-on SOC training from Let’sDefend, MyDFIR, and my newly-built Microsoft Sentinel Lab (2025 version).
 
 ---
 
 ## 🛠 Skills  
 
-| Skill                                     | Associated Project / Training |
-|-------------------------------------------|-------------------------------|
-| SIEM Implementation & Log Analysis        | [Detection Lab](https://github.com/Stanley59-cyber/Hands-On-SOC-Training/tree/main) |
-| Network Traffic Monitoring & Attack Detection | Detection Lab |
-| **Malware & Phishing Analysis**           | Let’sDefend & MyDFIR Labs |
-| Threat Hunting & MITRE ATT&CK Mapping     | MyDFIR Training |
-| Human Factor / Social Engineering Analysis | MSc Project: Cyber Kill Chain |
+| Skill                                 | Associated Project / Training |
+| ------------------------------------- | ----------------------------- |
+| SIEM Setup & Log Analysis             | Microsoft Sentinel Lab (2025) |
+| Network Traffic Monitoring            | Detection Lab                 |
+| Malware & Phishing Analysis           | Let’sDefend / MyDFIR          |
+| Threat Hunting & MITRE ATT&CK Mapping | MyDFIR Training               |
+| Social Engineering & Human Factors    | MSc Cyber Kill Chain Project  |
+
 
 ---
+
+📌 Microsoft Sentinel Lab (2025) – Hands-On Project
+
+This project gave me practical experience in the new unified Microsoft Defender/Sentinel interface used in real SOC environments.
+
+What I built
+
+Created a dedicated SOC lab in Azure
+
+Set up:
+
+Resource Group: rg-sentinel-lab
+
+Log Analytics Workspace: law-sentinel-workspace
+
+Microsoft Sentinel (2025 Defender UI)
+
+Activated the free 31-day SIEM trial
+
+Onboarded my Windows 11 device using Azure Arc
+
+Explored data ingestion workflow (DCR), connectors, and Sentinel navigation
+
+Understood workspace architecture, log pipelines, and cloud security workflows
+
+Screenshots Included in Repo
+
+Azure subscription
+
+Resource group
+
+Log Analytics workspace
+
+Sentinel (Defender portal interface)
+
+Sentinel free trial
+
+Azure Arc onboarded device
+
+Data Collection Rule (new UI)
+
 
 ## 🖼 Let’sDefend Certificate  
 
@@ -62,8 +103,12 @@ CyberChef • OSINT (VirusTotal, AbuseIPDB, DNS Lookup) • VMware Lab • Regsh
 
 ## 💻 Projects / Labs  
 
+Microsoft Sentinel Lab (2025)
+
+Real-world cloud SIEM setup using Azure and Microsoft Defender.
+
 - **[Hands-On SOC Training Lab](https://github.com/Stanley59-cyber/Hands-On-SOC-Training/tree/main)**  
-  Phishing, malware, and network detection simulations (Let’sDefend & MyDFIR)
+  Phishing, malware, and network detection simulations (Let’sDefend and MyDFIR)
 
 - **MSc Project: Cyber Kill Chain Analysis**  
   Analysed the Twilio social engineering attack using the **Cyber Kill Chain**, focusing on human vulnerabilities and attack impact.
