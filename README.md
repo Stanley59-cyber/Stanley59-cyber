@@ -5,7 +5,7 @@
 🔐 SOC Analyst in training
 ✔️ CompTIA Security+ certified
 
-I’m passionate about SOC operations, phishing and malware analysis, log monitoring, and understanding how human behaviour influences security risks.
+I am passionate about SOC operations, phishing and malware analysis, log monitoring, and understanding how human behaviour influences security risks.
 
 
 🎯 Objective
