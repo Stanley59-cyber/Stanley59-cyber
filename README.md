@@ -1,19 +1,17 @@
 👋 Hello, I am Stanley
 <a href="https://www.linkedin.com/in/stanley-obiekwe-2018b2217"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-🎓 MSc Cybersecurity & Human Factors
+🎓 MSc Cybersecurity and Human Factors
 🔐 SOC Analyst in training
 ✔️ CompTIA Security+ certified
 
-I’m passionate about SOC operations, phishing & malware analysis, log monitoring, and understanding how human behaviour influences security risks.
+I’m passionate about SOC operations, phishing and malware analysis, log monitoring, and understanding how human behaviour influences security risks.
 
----
 
 🎯 Objective
 
 To grow as a Security Operations Analyst by applying my hands-on SOC training from Let’sDefend, MyDFIR, and my newly-built Microsoft Sentinel Lab (2025 version).
 
----
 
 ## 🛠 Skills  
 
@@ -26,7 +24,6 @@ To grow as a Security Operations Analyst by applying my hands-on SOC training fr
 | Social Engineering & Human Factors    | MSc Cyber Kill Chain Project  |
 
 
----
 
 📌 Microsoft Sentinel Lab (2025) – Hands-On Project
 
@@ -76,7 +73,6 @@ Data Collection Rule (new UI)
 ![Let’sDefend Certificate](https://github.com/Stanley59-cyber/Stanley59-cyber/blob/main/LetsDefend_Cert.png?raw=true)
 
 
----
 
 ## 🖥 Tools  
 
@@ -89,7 +85,6 @@ Data Collection Rule (new UI)
 ### **Other Tools**  
 CyberChef • OSINT (VirusTotal, AbuseIPDB, DNS Lookup) • VMware Lab • Regshot • AnyRun • REMnux
 
----
 
 ## 🏆 Certifications  
 
@@ -99,7 +94,6 @@ CyberChef • OSINT (VirusTotal, AbuseIPDB, DNS Lookup) • VMware Lab • Regsh
 </a>
 </div>
 
----
 
 ## 💻 Projects / Labs  
 
@@ -113,7 +107,6 @@ Real-world cloud SIEM setup using Azure and Microsoft Defender.
 - **MSc Project: Cyber Kill Chain Analysis**  
   Analysed the Twilio social engineering attack using the **Cyber Kill Chain**, focusing on human vulnerabilities and attack impact.
 
----
 
 ## 🌟 About Me  
 - Strong interest in **SOC operations and cyber defence**  
