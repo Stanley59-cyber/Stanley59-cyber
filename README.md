@@ -51,19 +51,11 @@ Understood workspace architecture, log pipelines, and cloud security workflows
 
 Screenshots Included in Repo
 
-Azure subscription
+Azure subscription, Resource group, Log Analytics workspace, Data Collection Rule (new UI)
 
-Resource group
+Sentinel (Defender portal interface), Sentinel free trial, Azure Arc onboarded device
 
-Log Analytics workspace
 
-Sentinel (Defender portal interface)
-
-Sentinel free trial
-
-Azure Arc onboarded device
-
-Data Collection Rule (new UI)
 
 
 ## 🖼 Let’sDefend Certificate  
